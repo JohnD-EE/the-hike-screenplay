@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "d18d565c394aa6f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7001f549c2b2fac6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "people/@Danny Connors.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "494eb1b3e2e49489",
+    "type": "split",
+    "children": [
+      {
+        "id": "a925aba9202f3766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818a3549bfca351d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f61a2ba4d1de05c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cea17ea461d49c04",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f09fba5b5abe5d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf6247c3263f0d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5401ee887ab50d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "people/@Danny Connors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5e22b1ff684ebbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "people/@Danny Connors.md",
+    "README.md",
+    "people/Untitled.md"
+  ]
+}
