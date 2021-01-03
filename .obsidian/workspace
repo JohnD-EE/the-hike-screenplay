@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/@Danny Connors.md",
+            "file": "people/beginnings/Dicing.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/@Danny Connors.md",
+                "file": "people/beginnings/Dicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "people/@Danny Connors.md",
+    "people/beginnings/Untitled.md",
     "README.md",
+    "people/@Danny Connors.md",
     "people/Untitled.md"
   ]
 }

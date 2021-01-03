@@ -11,4 +11,5 @@ Using obsidian to write a screenplay...
 - The screenplay is heavily dialogue focused. Philosophical ponderings and deep conversations.
 - The drama and moments of suspense play out as he kills off, one-by-one the characters who haunt him, the negative sides of his shadow.
 - There is a love interest too.  In his daily life he has suppressed the positive parts of his personality - his kind, caring, nurturing side.  He is a cynic like Phil Connors in Groundhog Day. But he projects this shadow onto the love interest, whom he must also integrate in order to complete the individuation process.
+- With the love interest, play with the idea that when it comes to love, men are idealists, and women are opportunists.
 
